@@ -4,7 +4,7 @@
 
 Aren't you _fáradt_ from writing Rust programs in English? Do you like saying
 "kurva" a lot? Would you like to try something different, in an exotic and
-funny-sounding language? Would you want to bring some French touch to your
+funny-sounding language? Would you want to bring some Hungarian touch to your
 programs?
 
 **rozsda** (Hungarian for _Rust_) is here to save your day, as it allows you to
