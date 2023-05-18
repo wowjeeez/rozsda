@@ -1,9 +1,10 @@
 [package]
-name = "rouille_compilogenese"
+name = "rozsda"
 version = "0.1.0"
 edition = "2018"
 
 [dependencies]
+rozsda_fordito = { path = "../rozsda_fordító_proc_macro" }
 
 [lib]
 proc-macro = true
