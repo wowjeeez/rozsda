@@ -72,7 +72,7 @@ syntax. That's it.
 - Russian: [Ржавый](https://github.com/Sanceilaks/rzhavchina)
 - Esperanto: [rustteksto](https://github.com/dscottboggs/rustteksto)
 - Hindi: [zung](https://github.com/rishit-khandelwal/zung)
-- Hungarian: [rozsda](https://github.com/jozsefsallai/rozsda)
+- Other Hungarian (its a bit better I have to admit @jozsefsallai): [rozsda](https://github.com/jozsefsallai/rozsda)
 - Chinese: [xiu (锈)](https://github.com/lucifer1004/xiu)
 - Spanish: [rustico](https://github.com/UltiRequiem/rustico)
 - Korean: [Nok (녹)](https://github.com/Alfex4936/nok)
